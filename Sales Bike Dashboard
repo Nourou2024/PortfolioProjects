@@ -1,0 +1,24 @@
+# Creating sales Bike Dashboard Using Excel
+
+## Objective:
+To develop a comprehensive sales Bike dashboard presenting average income per purshase, customer commute and customer age brackets for better decision-making.
+
+## Data Source: 
+
+Dataset contains icome, Age, occupation, region, purshased bike, etc. (  https://github.com/AlexTheAnalyst/Exc...) 
+
+## Project Steps:
+
+•	Eliminated duplicate entries in the dataset
+•	Used IF function for marital status and gender columns
+•	Constructed pivot tables to summarize sales data by average of income, purshased bike, commute distance and Age brackets
+•	Created line and Bar charts illustrating income/purshased bike or age bracket/purshased bike
+•	Integrated all charts, pivot and tables into a single dashboard sheet
+•	Added interactive elements slicers for easy filtering and exploration
+
+## Conclusion:
+
+A comprehensive sales bike dashboard providing a snapshot of sales performance, trends, and insights.
+
+
+
